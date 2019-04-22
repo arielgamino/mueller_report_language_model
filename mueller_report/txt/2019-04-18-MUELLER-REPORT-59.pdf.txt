@@ -1,0 +1,29 @@
+U.S. Department of Justice
+AM:erHey
+Werk Prnclttet// May CefltaiHMaterialPreteeteclUHclerFeel.R. Criffl.P. 6(e)
+
+for vulnerabilities continued through the election.
+Unit 74455 also sent spearphishing emails to public officials involved in election
+administration and personnel~
+involved in voting technology. In August 2016, GRU
+officers targeted employees of-,
+a voting technology company that developed software
+used by numerous U.S. counties to manage voter rolls , and installed malware on the company
+network. Similarly , in November 2016, the GRU sent spearphish ing emails to over 120 email
+accounts used by Florida county officials responsible for administering the 2016 U.S. election . 191
+The spearphishing emails contained an attached Word document coded with malicious software
+(commonl y referred to as a Trojan) that permitted the GRU to access the infected computer. 192
+The FBI was separately responsible for this investigation. We understand the FBI believes that this
+operation enabled the GRU to gain access to the network of at least one Florida county
+government. The Office did not independently verify that belief and, as explained above, did not
+undertake the investigative steps that would have been necessary to do so.
+
+D. Trump Campaign and the Dissemination of Hacked Materials
+
+1.
+
+a. Background
+
+51
+
+

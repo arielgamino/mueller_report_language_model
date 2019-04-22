@@ -1,0 +1,55 @@
+U.S. Department of Justice
+
+AtttJmey WtJrk Proclttet// May CtJHtaiHMaterial PrtJteeteclUHfierFed. R. Crim. P. 6(e)
+
+I.
+
+BACKGROUND LEGAL AND EVIDENTIARY PRINCIPLES
+
+A.
+
+Legal Framework of Obstruction of Justice
+
+The May 17, 2017 Appointment Order and the Special Counsel regulations provide this
+Offic e with jurisd ict ion to investigate " federal crimes committed in the course of, and with intent
+to interfere with , the Special Counsel's inv estigation, such as perjury , obstruction of justice ,
+destruction of evidence , and intimidation of witnesses." 28 C.F .R. § 600.4(a) . Because of that
+description of our jurisdiction, we sought evidence for our obstruction-of-justice investigation with
+th e elements of obstruction offenses in mind. Our evidentiary analysis is similarly focused on the
+elements of such offenses , although we do not draw conclusions on the ultimate questions that
+govern a prosecutorial decision under the Principles of Federal Prosecution. See Justice Manual
+§ 9-27.000 et seq. (2018) .
+Here, we summarize the law interpreting the elements of potentially relevant obstruction
+statutes in an ordinary case. This discussion does not address the unique constitutional issues that
+arise in an inquiry into official acts by the Presid ent. Those issues are discussed in a later section
+of this report addressing constitutional defenses that the President ' s counsel have raised . See
+Volume II, Section III.B, infra.
+Three basic elements are common to most of the relevant obstruction statutes: (1) an
+obstructive act; (2) a nexus between the obstructive act and an official proceeding; and (3) a corrupt
+intent. See, e.g., 18 U.S .C. §§ 1503 , 1505 , 1512( c)(2) . We describe those elements as they have
+been interpret ed by the courts . We then discuss a more specific statute aimed at witness tampering,
+see 18 U.S.C. § I 512(b ), and describe the requirements for attempted offenses and endeavor s to
+obstructjustice , see 18 U .S.C . §§ 1503, 1512(c)(2).
+
+Obstructive act. Obstruction -of-justice law "reach es all corrupt conduct capable of
+producing an effect that prevents justice from being duly administered , regardless of the mean s
+employed."
+United States v. Silverman , 745 F.2d 1386 , 1393 (11th Cir. 1984) (interpreting 18
+U.S.C . § 1503). An "effort to influence " a proceeding can qualify as an endeavor to obstruct
+justice even if the effort was "subtle or circuitous" and "however cleverly or with whatever
+cloaking of purpose " it was made . United States v. Roe, 529 F.2d 629, 632 (4th Cir. 1975); see
+also United States v. Quattrone, 441 F.3d 153, 173 (2d Cir. 2006). The verbs "' obstruct or impede '
+are broad " and "can refer to anything that blocks , makes difficult, or hinders ." Marinello v. United
+States , 138 S. Ct. 1101 , 1106 (2018) (internal brackets and quotation marks omitted).
+An improper motive can render an actor ' s conduct criminal even when the conduct would
+otherwise be lawful and within the actor's authority. See United States v. Cueto, 151 F .3d 620,
+631 (7th Cir . 1998) (affirming obstruction conviction of a criminal defense attorney for " litigation related conduct ") ; United States v. Cintolo, 818 F .2d 980, 992 (1st Cir. 1987) ("any act by any
+party-wh ether lawful or unlawful on its face - may abridge § 1503 if performed with a corrupt
+motive ").
+
+Nexus to a pending or contemplated official proceeding. Obstruction-of-justice law
+generally requires a nexus , or connection , to an official proceeding. In Section 1503 , the nexus
+must be to pending "judicial or grand jury proceedings." United States v. Aguilar, 515 U.S. 593,
+9
+
+

@@ -1,0 +1,58 @@
+U.S. Department of Justice
+Atteffl:e,· Werk Precluet // Mity CefttaiH Material Preteetecl Utl:clerFecl. R. Crim. P. 6(e)
+
+Unit 26165 officers appear to have stolen thousands of emails and attachments , which were later
+released by WikiLeaks in July 2016 .136
+
+B. Dissemination of the Hacked Mate rials
+The GRU 's operations extended beyond stealing materials, and included releasing
+documents stolen from the Clinton Campaign and its supporters. The GRU carried out the
+anonymous release through two fictitious online personas that it created-DCLeaks and Guccifer
+2.0-and later through the organization WikiLeaks.
+1. DCLeaks
+The GRU began planning the releases at least as early as April 19, 2016, when Unit 26165
+register ed the domain dcleaks .com through a service that anonymized the registrant. 137 Unit 26165
+paid for the registration using a pool of bitcoin that it had mined. 138 The dcleaks.com landing page
+pointed to different tranches of stolen documents, arranged by victim or subject matter. Other
+dcleaks.com pages contained indexes of the stolen emails that wer e being released (bearing the
+sender , recipient, and date of the email). To control access and the timing of releases, pag es were
+sometimes password -protected for a period of time and later made unrestricted to the public.
+Starting in June 2016 , the GRU posted stolen documents onto the websit e dcleaks.com ,
+including documents stolen from a number of individuals associat ed with the Clinton Campaign.
+These documents appeared to have originated from personal email accounts (in particular , Google
+and Microsoft accounts) , rather than the DNC and DCCC computer networks. DCLeaks victims
+included an advisor to the Clinton Campaign, a former DNC employee and Clinton Campaign
+employee , and four other campaign volunteers .139 The GRU released through dcleaks.com
+thousands of documents, including personal identifying and financial information , internal
+correspondence related to the Clinton Campaign and prior political jobs , and fundraising files and
+information. 140
+
+Netyksho Indictment ,r29. The last-in-time DNC email released by WikiLeaks was dated May
+25, 2016, the same period of time during which the GRU gained access to the DNC's email server.
+Netyksho Indictment ,r45.
+136
+
+Netyksho Indictment ,r35. Approximately a week before the registration of dcleaks.com, the
+same actors attem ted to re ister the website electionleaks.com using the same domain registration service .
+137
+
+138
+
+See SM-2589105, serial 181; N etyksho Indictment
+
+140
+
+,r2 l(a).
+
+See, e.g., Internet Archive, "htt s://dcleaks.com/" archive date Nov . 10, 2016) . Additionally ,
+DCLeaks released documents relating to
+, emails belonging
+to-,
+and emails from 2015 relating to Republican Party employees (under the potifolio name
+"The United States Republican Party "). "The United States Republican Party" portfolio contained
+approximately 300 emails from a variet y of GOP members, PACs, campaigns , state parties, and businesses
+dated between May and October 2015. According to open-source reporting , these victims shared the same
+
+41
+
+

@@ -1,0 +1,55 @@
+U .S. Department of Justice
+Attomey \Vofk Prot:lttet // Ma)· CoHtaiH Material Proteetee UHt:lerFed . R. Criffl. P. 6(e)
+
+c. Finally, the rule of lenity does not justify treating Section 1512( c )(2) as a prohibition on
+evidence impairment, as opposed to an omnibus clause. The rule of lenity is an interpretive
+principle that resolves ambiguity in criminal laws in favor of the less-severe construction.
+Clevelandv . United States , 531 U.S. 12, 25 (2000). " [A]s [the Court has] repeatedly emphasized,"
+however , the rule of lenity applies only if, "after considering text, structure, history and purpose ,
+there remains a grievous ambiguity or uncertainty in the statute such that the Court must simply
+guess as to what Congress intended ." Abramski v. United States, 573 U.S. 169, 188 n. l O (2014)
+(internal quotation marks omitted) . The rule has been cited , for example, in adopting a narrow
+meaning of "tangible object " in an obstruction statute when the prohibition ' s title , history , and list
+of prohibited acts indicated a focus on destruction ofrecords . See Yates v. United States, 135 S.
+Ct. 1074 , 1088 (2015) (plurality opinion) (interpreting "tangible object" in the phrase "record ,
+document , or tangible object " in 18 U.S.C . § 1519 to mean an item capable of recording or
+preserving information) . Here , as discussed above , the text , structure , and history of Section
+I 5 I 2(c)(2) leaves no "grievous ambiguity" about the statute ' s meaning . Section 1512(c)(2)
+defines a structurally independent general prohibition on obstruction of official proceedings.
+5. Other Obstruction Statutes Might Apply to the Conduct in this Investigation
+Regardless whether Section 1512( c)(2) covers all corrupt acts that obstruct , influence , or
+impede pending or contemplated proceedings , other statutes would apply to such conduct in
+pending proceedings, provided that the remaining statutory elements are satisfied. As discussed
+above , the omnibus clause in 18 U.S.C . § 1503(a) applies generally to obstruction of pending
+judicial and grand proceedings. 1084 See Aguilar , 515 U.S. at 598 (noting that the clause is "far
+more general in scope" than preceding provisions) . Section 1503(a)' s protections extend to
+witness tampering and to other obstructive conduct that has a nexus to pending proceedings. See
+Sampson , 898 F .3d at 298-303 & n.6 (collecting cases from eight circuits holding that Section
+1503 covers witness-related obstructive conduct, and cabining prior circuit authority).
+And
+Section 1505 broadly criminalizes obstructive conduct aimed at pending agency and congressional
+proceedings. 1085 See, e.g., United States v. Rainey , 757 F.3d 234, 241 -247 (5th Cir. 2014).
+
+concluded that the statute did not clearly apply to corrupt conduct by the person himself and the "core"
+conduct to which Section 1505 could constitutionally be applied was one person influencing another person
+to violate a legal duty. Id. at 379-386. Congress later enacted a provision overturning that result by
+providing that "[a]s used in [S]ection 1505, the term 'corruptly' means acting with an improper purpose ,
+personally or by influencing another, including by making a false or misleading statement , or withholding ,
+concealing , altering, or destroying a document or other information." 18 U.S .C. § 1515(b). Other courts
+have declined to follow Poindex ter either by limiting it to Section 1505 and the specific conduct at issue in
+that case, see Brenson , 104 F.3d at 1280-1281; reading it as nan·owly limited to certain types of conduct,
+see United States v. Morrison , 98 F.3d 619, 629-630 (D.C. Cir. 1996); or by noting that it predated Arthur
+And ersen 's interpretation of the term "corruptly," see Edwards, 869 F.3d at 501-502.
+1084
+
+Section l 503(a) provides for criminal punishment of:
+Whoever . . . corruptly or by threats or force, or by any threatening letter or
+communication , influences, obstructs, or impedes, or endeavors to influence, obstruct, or
+impede, the due administration of justice.
+
+1085
+
+Section 1505 provides for criminal punishment of:
+167
+
+

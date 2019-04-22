@@ -1,0 +1,54 @@
+U .S. Department of Justice
+Att:emey Werk Pretittet // May CeHtaiH Material Preteeteti UHtier Feti . R. Griff!. P. 6(e)
+
+commencement or conduct of a proceeding, and not just to acts that make evidence unavailable or
+impair its integrity .
+Section 1512( c )(2)' s breadth is reinforced by the similarity of its language to the omnibus
+clause of 18 U .S.C . § 1503, which covers anyone who "corruptly . . . obstructs , or impedes, or
+endeavors to influence , obstruct, or impede, the due administration of justice. " That clause of
+Section 1503 follows two more specific clauses that protect jurors, judges , and court officers. The
+omnibus clause has nevertheless been construed to be " far more general in scope than the earlier
+clauses of the statute." United States v. Aguilar, 515 U.S. 593 , 599 (1995) . "The omnibus clause
+is essentially a catch -all provision which generally prohibits conduct that interferes with the due
+administration of justice. " United States v. Brenson , 104 F.3d 1267, 1275 (11th Cir. 1997) . Courts
+have accordingly given it a "non-restrictive reading. " United States v. Kumar , 617 F.3d 612, 620
+(2d Cir. 201 O); id. at 620 n.7 (collecting cases from the Third , Fourth , Sixth, Seventh , and Eleventh
+Circuits). As one court has explained, the omnibus clause "prohibits acts that are similar in result,
+rather than manner , to the conduct described in the first part of the statute. " United States v.
+Howard , 569 F.2d 1331, 1333 (5th Cir. 1978). While the specific clauses "forbid certain means
+of obstructing justice . .. the omnibus clause aims at obstruction of justice itself, regardless of the
+means used to reach that result." Id. (collecting cases) . Given the similarity of Section l 5 l 2(c)(2)
+to Section 1503 's omnibus clause , Congress would have expected Section 1512( c )(2) to cover acts
+that produced a similar result to the evidence-impairment provisions-i .e., the result of obstructing
+justice-rather
+than covering only acts that were similar in manner. Read this way, Section
+1512( c)(2) serves a distinct function in the federal obstruction-of-justice statutes: it captures
+corrupt conduct, other than document destruction , that has the natural tendency to obstruct
+contemplat ed as well as pending proceedings.
+Section 1512( c )(2) overlaps with other obstruction statutes , but it does not render them
+superfluous.
+Section 1503, for example, which covers pending grand jury and judicial
+proceedings, and Section 1505, which covers pending administrative and congressional
+proceedings , reach "endeavors to influence , obstruct , or impede " the proceedings-a
+broader test
+for inchoate violations than Section l 5 l 2(c)(2) 's "attempt" standard , which requires a substantial
+step towards a completed offense. See United States v. Sampson , 898 F.3d 287, 302 (2d Cir.2018)
+(" [E]fforts to witness tamper that rise to the level of an ' endea vor' yet fall short of an 'attempt'
+cannot be prosecuted under§ 1512.") ; United States v. Leisure , 844 F.2d 1347, 1366-1367 (8th
+Cir. 1988) (collecting cases recognizing the difference between the "endeavor" and "attempt"
+standards) . And 18 U.S.C. § 1519, which prohibits destruction of documents or records in
+contemplation of an investigation or proce eding, does not require the "nexus " showing under
+Aguilar , which Section 1512(c)(2) demands. See , e.g. , United States v. Yielding, 657 F.3d 688,
+712 (8th Cir.2011) ("T he requisite knowledge and intent [under Section 1519] can be present even
+if the accused lacks knowledg e that he is likely to succeed in obstructing the matter ."); United
+States v. Gray , 642 F.3d 371 , 376-377 (2d Cir. 2011) ("[I]n enacting § 1519, Congress rejected
+any requirement that the government prove a link between a defendant ' s conduct and an imminent
+or pending official proc eeding."). The existence of even "substantial" overlap is not "uncommon "
+in criminal statutes. Loughrin, 573 U.S . at 359 n.4; see Shaw, 137 S. Ct. at 458-469 ; Aguilar , 515
+U.S. at 616 (Scalia, J., dissenting) (" The fact that there is now some overlap between § 1503 and
+§ 1512 is no more intolerable than the fact that there is some overlap between the omnibus clause
+of§ 1503 and the other provisions of§ 1503 itself."). But given that Sections 1503, 1505, and
+
+163
+
+

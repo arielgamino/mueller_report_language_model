@@ -1,0 +1,41 @@
+U.S . Department of Justice
+
+Attoni.ey Work Proclttet// Mtt;r CoHtaiHMaterial Proteetecl UHclerFecl. R. Crim.. P. 6(e)
+
+To operate X-A gent and X-Tunnel on the DCCC and DNC networks, Unit 26165 officers
+set up a group of computers outside those networks to communicate with the implanted
+malware. 126 The first set of GRU-controlled computers, known by the GRU as "middle servers,"
+sent and received messages to and from malware on the DNC/DCCC networks. The middle
+servers, in tum, relayed messages to a second set of GRU-controlled com®ters, labeled internally
+by the GRU as an "AMS Panel." The AMS Panel
+served as a
+nerve center through which GRU officers monitored and directed the malware's operations on the
+DNC /DCCC networks. 127
+
+llftJfjlf•§OPJJffi
+l•Ul
+·-
+
+126
+
+In connection with these intrusions, the GRU used computers (virtual private networks,
+dedicated servers operated by hosting companies, etc.) that it leased from third-party providers located all
+over the world. The investi ation identified rental a reements and payments for computers located in, inter
+alia,
+all of which were used in the operations
+targeting the U.S. election.
+127
+
+Netyksho Indictment ,r25.
+
+128
+
+Netyksho Indictment ,r24(c).
+
+129
+
+Netyksho Indictment ,r24(b).
+
+39
+
+

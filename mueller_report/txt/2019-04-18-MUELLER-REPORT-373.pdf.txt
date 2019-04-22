@@ -1,0 +1,56 @@
+U.S. Department of Justice
+AtterRe; · '.\'erk Pt'oattet // May CoHtaiR Matel'ial Pl'eteetea UHaet' Fee. R. Criffl. P. 6(e)
+
+for use in an official proceeding ," a requirement that Congress also included in two other sections
+of Section 1512. See 18 U.S.C. §§ 1512(a)(2)(B)(ii) (use of physical force with intent to cause a
+person to destroy an object "with intent to impair the integrity or availability of the object for use
+in an official proceeding") ; 15 l 2(b )(2)(B) (use of intimidation, threats , corrupt persuasion , or
+misleading conduct with intent to cause a person to destro y an object "with intent to impair the
+integrity or availability of the object for use in an official proceeding "). But no comparable intent
+or conduct element focused on evidence impairment appears in Section 1512( c )(2). The intent
+element in Section 1512(c)(2) comes from the word "corruptly. " See, e.g., United .States v.
+McKibbins, 656 F .3d 707, 711 (7th Cir. 2011) ("The intent element is important because the word
+' corruptly ' is what serves to separate criminal and innocent acts of obstruction .") (internal
+quotation marks omitted). And the conduct element in Section 1512( c)(2) is "o bstruct[ing] ,
+influenc[ing] , or imped[ing]" a proceedin g . Congress is presumed to have acted intentionally in
+the disparate inclusion and exclusion of evidence-impairment language. See Loughrin v. United
+States, 573 U.S. 351 , 358 (2014) ("[W]hen 'Congress includes particular language in one section
+of a statute but omits it in another'-let
+alone in the very next provision-this
+Court ' presume[s]'
+that Congress intended a difference in meaning ") (quoting Russello v. United States, 464 U.S. 16,
+23 (1983)); accord Digital Realty Trust, Inc. v. Somers, 138 S. Ct. 767 , 777 (2018).
+Second, the structure of Section 1512 supports the conclusion that Section 1512( c )(2)
+defines an independent offense. Section 1512( c )(2) delineates a complete crime with different
+elements from Section 1512( c )(1 )-and each subsection of Section 1512( c) contains its own
+"attempt" prohibition , underscoring that they are independent prohibitions. The two subsections
+of Section 1512(c) are connected by the conjunction "or," indicating that each provides an
+alternative basis for criminal liability . See Loughrin , 573 U.S. at 357 ("ordinary use [of ' or'] is
+almost always disjunctive, that is, the words it connects are to be given separate meanings ")
+(internal quotation marks omitted). In Loughrin, for example, the Supreme Court relied on the use
+of the word "or" to hold that adjacent and overlapping subsections of the bank fraud statute , 18
+U.S.C. § 1344, state distinct offenses and that subsection 1344(2) therefore should not be
+interpreted to contain an additional element specified only in subsection 1344( I). Id; see also
+Shaw v. United States, 137 S. Ct. 462, 465-469 (2016) (recognizing that the subsections of the
+bank fraud statute "overlap substantially " but identifying distinct circumstances covered by
+each). 1078 And here , as in Loughrin , Section 15 I 2(c)'s "two clauses have separate numbers , line
+breaks before , between , and after them , and equivalent indentation-thus
+placing the clauses
+visually on an equal footing and indicating that they have separate meanings ." 573 U.S. at 359 .
+Third, the introductory word "otherwise " in Section 1512( c )(2) signals that the provision
+covers obstructive acts that are different from those listed in Section 1512( c )( 1). See Black's Law
+Dictionary 1101 (6th ed. 1990) ("otherwise " means "in a different manner ; in anothe r way, or in
+other ways "); see also, e.g., American Heritage College Dictionary Online ("1. In another way ;
+1078
+
+The Offic e of Legal Counsel recently relied on several of the same interpretiv e principle s in
+concluding that language that appeared in the first clause of the Wire Act, 18 U.S.C. § 1084, restricting its
+prohibition against certain betting or wagering activities to "any sporting event or contest," did not apply
+to the second clause of the same statute , which reaches other betting or wagering activities . See
+Reconsidering Whether the Wire Act Applies to Non-Sports Gambling (Nov. 2, 2018) , slip op. 7 (relying
+on plain language); id. at 11 (finding it not "tenable to read into the second clause the qualifier 'on any
+sporting event or contest' that appears in the first clause"); id. at 12 (relying on Digital Realty).
+
+161
+
+

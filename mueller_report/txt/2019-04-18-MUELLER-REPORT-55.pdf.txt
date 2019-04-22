@@ -1,0 +1,68 @@
+U.S. Department of Justice
+AttorHe;· Work Protittet // Ma:yCoHta:iHMa:teria:lProteetecl UHclerFecl.R. Crim. P. 6(e)
+
+Guccifer 2.0 persona informed DCLeaks that WikiLeaks was trying to contact DCLeaks and
+arrange for a way to speak through encrypted emails. 170
+
+An analysis of the metadata collected from the WikiLeaks site revealed that the stolen
+Podesta emails show a creation date of September 19, 2016. 171 Based on information about
+Assange's computer and its possible operating system, this date may be when the GRU staged the
+stolen Podesta emails for transfer to WikiLeaks (as the GRU had previously done in July 2016 for
+the DNC emails). 172 The WikiLeaks site also released PDFs and other documents taken from
+Podesta that were attachments to emails in his account; these documents had a creation date of
+October 2, 2016, which appears to be the date the attachments were separately staged by
+WikiLeaks on its site. 173
+Beginning on September 20, 2016, WikiLeaks and DCLeaks resumed communications in
+a brief exchange. On September 22, 2016, a DCLeaks email account dcleaksproject@gmail.com
+sent an email to a WikiLeaks account with the subject "Submission" and the message "Hi from
+DCLeaks."
+The email contained
+PGP-encr ted
+with the filename
+"wiki_mail.txt.gpg. " 174
+The email, however, bears a
+number of similarities to the July 14, 2016 email in which GRU officers used the Guccifer 2.0
+persona to give WikiLeaks access to the archive of DNC files. On September 22, 2016 (the same
+day of DCLeaks' email to WikiLeaks), the Twitter account dcleaks sent a sin le messa e to
+WikiLeaks with the strin of characters
+
+The Office cannot rule out that stolen documents were transferred to WikiLeaks through
+intermediaries who visited during the summer of 2016. For example, public reporting identified
+A d
+M ..11 M
+h
+w·kiL k
+. t h
+h
+. t d 'th th t
+£ fth
+Investigative Technique
+
+170
+
+See SM-2589105-DCLEAKS,serial 28; 9/15/16 Twitter DM, @Guccifer_2 & @WikiLeaks.
+
+171
+
+See SM-2284941, serials 63 & 64 Investigative Technique
+
+At the time, certain Apple operating systems used a setting that left a
+downloaded file's creation date the same as the creation date shown on the host computer. This would
+explain why the creation date on WikiLeaks's version of the files was still September 19, 2016. See SM2284941, serial 62 Investigative Technique
+173
+
+When WikiLeaks saved attachments separately from the stolen emails, its computer system
+appears to have treated each attachment as a new file and given it a new creation date. See SM-2284941,
+serials 63 & 64.
+174
+
+See 9/22/16 Email, dcleaksproject@gmail.com
+
+175
+
+Ellen Nakashima et al., A German Hacker Offers a Rare Look Inside the Secretive World of
+Julian Assange and WikiLeaks, Washington Post (Jan. 17, 2018).
+
+47
+
+

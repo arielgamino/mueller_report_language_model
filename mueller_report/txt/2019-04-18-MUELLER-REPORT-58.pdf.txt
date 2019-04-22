@@ -1,0 +1,49 @@
+U.S. Department of Justice
+Afl:6rHeyW6rk Pf6ch:1et// Mt1.;·C6f1taiAMaterit1.lPr6teetetl UAeef fetl . R. Crim. P. 6(e)
+
+them to account that they controlled; from there, the copies were moved to GRUcontrolled computers. The GRU stole approximately 300 gigabytes of data from the DNC cloudbased account. 185
+2. Intrusions Targeting the Administration of U.S. Elections
+
+In addition to targeting individuals involved in the Clinton Campaign, GRU officers also
+targeted individuals and entities involved in the administration of the elections. Victims included
+U.S. state and local entities , such as state boards of elections (SBOEs), secretaries of state, and
+county governments , as well as individuals who worked for those entities . 186 The GRU also
+targeted private technology firms responsible for manufacturing and administering election-related
+software and hardware, such as voter registration software and electronic polling stations. 187 The
+GRU continued to target these victims through the elections in November 2016. While the
+investigation identified evidence that the GRU targeted these individuals and entities , the Office
+did not investigate further. The Office did not, for instance , obtain or examine servers or other
+relevant items belonging to these victims . The Office understands that the FBI, the U.S.
+Department of Homeland Security , and the states have separately investigated that activity.
+By at least the summer of 2016 , GRU officers sought access to state and local computer
+networks by exploiting known software vulnerabilities on websites of state and local governmental
+entities. GRU officers, for example, targeted state and local databases of registered voters using a
+technique known as "SQL injection," by which malicious code was sent to the state or local
+website in order to run commands (such as exfiltrating the databas e contents). 188 In one instance
+in approximately June 2016, the GRU compromised the computer network of the Illinois State
+Board of Elections by exploiting a vulnerab ility in the SBOE' s website. The GRU then gained
+access to a database containing information on millions of registered Illinois voters , 189 and
+extracted data related to thousands of U.S. voters before the malicious activity was identified. 190
+GRU officers Investigative Technique
+
+-·
+-
+
+scanned state and local websites for
+eriod in July 2016 , GRU officers for vulnerabilities on websites of more than
+
+185
+
+Netyksho Indictment,r34; see also SM-2589105-HACK , serial 29 Investigative Technique
+
+186
+
+Netyksho Indictment ,r69.
+
+188
+
+Investigative Technique
+
+50
+
+

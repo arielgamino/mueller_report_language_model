@@ -1,0 +1,51 @@
+U.S. Department of Justice
+A'.~erRe:,·
+Wefk Prnattet// MttyCeH:tttifl
+MftterittlPrnteeteaURaerFee. R. Crim.P. 6(e)
+
+2. Intrusions into the DCCC and DNC Networks
+
+a. Initial Access
+By no later than April 12, 2016 , the GRU had gained access to the DCCC computer
+network using the credentials stolen from a DCCC employee who had been successfully
+spearphished the week before . Over the ensuing weeks, the GRU traversed the network ,
+identifying different computers connected to the DCCC network . By stealing network access
+credentials along the way (including those of IT administrators with unrestricted access to the
+system) , the GRU compromised approximately 29 different computers on the DCCC network. 119
+Approximately six days after first hacking into the DCCC network, on April 18, 2016 ,
+GRU officers gained access to the DNC network via a virtual private network (VPN) connection 120
+between the DCCC and DNC networks . 121 Between April 18, 2016 and June 8, 2016 , Unit 26165
+compromised more than 30 computers on the DNC network, including the DNC mail server and
+shared file server. 122
+
+b. Implantation of Ma/ware on DCCC and DNC Networks
+Unit 26165 implanted on the DCCC and DNC networks two types of customized
+malware , 123 known as "X-Agent" and "X-Tunnel " ; Mimikatz , a credential -harvesting tool ; and
+rar.exe , a tool used in these intrusions to compile and compress materials for exfiltration. X-Agent
+was a multi-function hacking tool that allowed Unit 26165 to log keystrokes , take screenshots , and
+gather other data about the infected computers (e.g., file directories, operating systems). 124 XTunnel was a hacking tool that created an encrypted connection between the victim DCCC /DNC
+computers and GRU-controlled computers outside the DCCC and DNC networks that was capable
+of large -scale data transfers. 125 GRU officers then used X-Tunnel to exfiltrate stolen data from the
+victim computers.
+
+120
+
+A VPN extends a private network, allowing users to send and receive data across public
+networks (such as the internet) as if the connecting computer was directly connected to the private network.
+The VPN in this case had been created to give a small number of DCCC employees access to certain
+databases housed on the DNC network . Therefore, while the DCCC emplo yees were outside the DNC's
+private network , they could access parts of the DNC network from their DCCC computers.
+
+123
+"Malware" is short for maliciou s software, and here refers to software designed to allow a third
+party to infiltrate a computer without the consent or knowledge of the computer ' s user or operator.
+124
+
+Investigative Technique
+
+125
+
+Investigative Technique
+38
+
+

@@ -1,0 +1,44 @@
+U.S. Department of Justice
+Att:orttey Work Proettet // Mey COf1taittMaterial Proteeteel Utteler Feel. R. Crim. P. 6(e)
+
+The Arizona-based AMS Panel also stored thousands of files containing keylogging
+sessions captured through X-Agent. These sessions were captured as GRU officers monitored
+DCCC and DNC employees' work on infected computers regularly between April 2016 and June
+2016. Data captured in these keylogging sessions included passwords, internal communications
+between employees, banking information , and sensitive personal information.
+
+c. Theft of Documents from DNC and DCCC Networks
+Officers from Unit 26165 stole thousands of documents from the DCCC and DNC
+networks , including significant amounts of data pertaining to the 2016 U.S. federal elections.
+Stolen documents included internal strategy documents, fundraising data, opposition research , and
+emails from the work inboxes of DNC employees. 130
+The GRU began stealing DCCC data shortly after it gained access to the network. On April
+14, 2016 (approximately three days after the initial intrusion) GRU officers downloaded rar.exe
+onto the DCCC's document server. The following day, the GRU searched one compromised
+DCCC computer for files containing search terms that included "Hillary, " "DNC," "Cruz," and
+"Trump." 131 On April 25, 2016, the GRU collected and compressed PDF and Microsoft documents
+from folders on the DCCC ' s shared file server that pertained to the 2016 election. 132 The GRU
+appears to have compressed and exfiltrated over 70 gigabytes of data from this file server. 133
+The GRU also stole documents from the DNC network shortly after gaining access. On
+April 22, 2016, the GRU copied files from the DNC network to GRU-controlled computers. Stolen
+documents included the DNC' s opposition research into candidate Trump. 134 Between
+approximately May 25, 2016 and June 1, 2016, GRU officers accessed the DNC's mail server
+from a GRU-controlled computer leased inside the United States. 135 During these connections,
+130
+
+Netyksho Indictment,i,i 27-29; Investigative Technique
+
+131
+
+Investigative Technique
+
+135
+
+Investigative Technique
+
+1111
+See SM-2589105 -GJ, serial 649. As part of its investigation,the FBI later received images ofDNC
+servers and copies of relevant traffic logs. Netyksho Indictment ,i,i 28-29.
+40
+
+

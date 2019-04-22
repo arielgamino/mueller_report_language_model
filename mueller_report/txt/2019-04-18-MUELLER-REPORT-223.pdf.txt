@@ -1,0 +1,49 @@
+U.S. Department of Justice
+A~6f'l'le)' Werk Preattet II Mti)'' CeHtaiH Material Preteetea UHaer Fee. R. Cfiffl. P. 6(e)
+
+person," with the intent to "influence, delay, or prevent the testimony of any person in an official
+proceeding" or to "hinder, delay, or prevent the communication to a law enforcement officer ...
+of information relating to the commission or possible commission of a Federal offense"). To
+establish corrupt persuasion, it is sufficient that the defendant asked a potential witness to lie to
+investigators in contemplation of a likely federal investigation into his conduct. United States v.
+Ed/ind, 887 F.3d 166, 174 (4th Cir. 2018); United States v. Sparks , 791 F.3d 1188, 1191-1192
+(10th Cir. 2015); United States v. Byrne, 435 F .3d 16, 23-26 (1st Cir. 2006); United States v.
+LaShay, 417 F.3d 715, 718-719 (7th Cir. 2005); United States v. Burns, 298 F.3d 523 , 539-540
+(6th Cir. 2002); United States v. Pennington, 168 F.3d 1060, I 066 (8th Cir. 1999). The
+"persuasion " need not be coercive , intimidating, or explicit; it is sufficient to "urge," "induce ,"
+"ask[]," "argu[ e ]," "giv[ e] reasons," Sparks, 791 F .3d at 1192, or "coach[] or remind[] witnesses
+by planting misleading facts ," Ed/ind, 887 F.3d at 174. Corrupt persuasion is shown "where a
+defendant tells a potential witness a false story as if the story were true, intending that the witness
+believe the story and testify to it." United States v. Rodolitz, 786 F.2d 77, 82 (2d Cir. 1986); see
+United States v. Gabriel, 125 F.3d 89, 102 (2d Cir. 1997). It also covers urging a witness to recall
+a fact that the witness did not know , even if the fact was actually true. See LaShay, 417 F .3d at
+719. Corrupt persuasion also can be shown in certain circumstances when a person, with an
+improper motive, urges a witness not to cooperate with law enforcement. See United States v.
+Shotts, 145 F.3d 1289, 1301 (11th Cr. 1998) (telling Secretary "not to [say] anything [to the FBI]
+and [she] would not be bothered").
+When the charge is acting with the intent to hinder, delay, or prevent the communication
+of information to law enforcement under Section l 512(b )(3 ), the "nexus" to a proceeding inquiry
+articulated in Aguilar-that an individual have " knowledge that his actions are likely to affect the
+judicial proceeding," 515 U.S. at 599-does not apply because the obstructive act is aimed at the
+communication of information to investigators, not at impeding an official proceeding.
+Acting "knowingly ... corruptly" requires proof that the individual was "conscious of
+wrongdoing." Arthur Andersen, 544 U.S. at 705-706 (declining to explore "[t]he outer limits of
+this element" but indicating that an instruction was infirm where it permitted conviction even if
+the defendant "honestly and sincerely believed that [the] conduct was lawful"). It is an affirmative
+defense that "the conduct consisted solely of lawful conduct .and that the defendant's sole intention
+was to encourage , induce , or cause the other person to testify truthfully." 18 U.S.C. § 1512(e).
+
+Attempts and endeavors . Section 1512(c)(2) covers both substantive obstruction offenses
+and attempts to obstruct justice. Under general principles of attempt law, a person is guilty of an
+attempt when he has the intent to commit a substantive offense and takes an overt act that
+constitutes a substantial step towards that goal. See United States v. Resendiz-Ponce , 549 U.S.
+102, 106-107 (2007). "[T]he act [must be] substantial, in that it was strongly corroborative of the
+defendant's criminal purpose." United States v. Pratt, 351 F.3d 131, 135 (4th Cir. 2003). While
+"mere abstract talk" does not suffice , any "concrete and specific" acts that corroborate the
+defendant's intent can constitute a "substantial step." United States v. Irving, 665 F.3d 1184, 11981205 (10th Cir. 2011). Thus, "soliciting an innocent agent to engage in conduct constituting an
+element of the crime" may qualify as a substantial step. Model Penal Code§ 5 .01(2)(g); see United
+States v. Lucas, 499 F.3d 769, 781 (8th Cir. 2007) .
+
+11
+
+
